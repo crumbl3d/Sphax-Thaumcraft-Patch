@@ -1,5 +1,5 @@
-# Sphax PureBDcraft patch for Thaumcraft 4
-Thaumcraft 4 is a Minecraft mod created by Azanor and can be found [__here__](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292130).
+# Sphax PureBDcraft patch for Thaumcraft
+Thaumcraft is a Minecraft mod created by Azanor and can be found [__here__](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292130).
 
 This repository serves as a WIP (work in progress) folder used to store vector files (PSDs) used in the patch. The patch is a community project whose sole purpose is to add Sphax PureBDcraft look to the world of Thaumcraft.
 
