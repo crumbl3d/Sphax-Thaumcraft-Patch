@@ -1,19 +1,21 @@
 # Sphax PureBDcraft patch for Thaumcraft
 Thaumcraft is a Minecraft mod created by Azanor and can be found [__here__](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292130).
 
-This repository serves as a WIP (work in progress) folder used to store vector files (PSDs) used in the patch. The patch is a community project whose sole purpose is to add Sphax PureBDcraft look to the world of Thaumcraft.
+This repository serves as a WIP (work in progress) folder used to store vector __*PSD*__ and flattened __*PNG*__ files used in the patch. The patch is a community project whose sole purpose is to add Sphax PureBDcraft look to the world of Thaumcraft.
 
 ## Where to find us?
-If you want to chat, and download the temporary patch, visit the original BDcraft Community thread [__here__](http://bdcraft.net/community/pbdc-patches-wip/thaumcraft-the-new-era-magic-t1114.html).
+If you want to chat or download the temporary patch, visit the original BDcraft Community thread [__here__](http://bdcraft.net/community/pbdc-patches-wip/thaumcraft-the-new-era-magic-t1114.html).
 
 ## How to contribute?
-Want to help us finish the patch faster? Feel free to create a pull request to the repo [__here__](https://github.com/crumbl3d/Sphax-Thaumcraft-Patch/pulls), we will inspect the change and integrate it into the patch.
+Want to help us finish the patch faster? Feel free to create a pull request to the repository [__here__](https://github.com/crumbl3d/Sphax-Thaumcraft-Patch/pulls). We will inspect the changes and integrate them into the patch.
 
-## Noticed any issues?
-If you come across any issues, feel free to post them to the issue tracker [__here__](https://github.com/crumbl3d/sphax-thaumcraft-patch/issues).
+__NOTE:__ If you aren't sure about file structure, please put your files into the __*Unsorted*__ folder.
+
+## Aren't an artist but still want to help? You can be our bug tester!
+To download the latest patch, open the __*PNGs*__ folder and read the README.txt to find out how to package the patch. Then play around with it and just try to break it then post the bugs to the issue tracker [__here__](https://github.com/crumbl3d/sphax-thaumcraft-patch/issues). We will try to fix them and close your issue as fast as possible.
 
 ## License info:
-This project __does not__ contain any textures from the original Sphax PureBDcraft pack. It is a patch __based on__ the original pack but the textures themselves are created by the community. This patch complies with the BDcraft license found [__here__](http://bdcraft.net/license-terms-of-use).
+This project __*DOES NOT*__ contain any textures from the original Sphax PureBDcraft pack. It is a patch __*BASED ON*__ the original pack but the *textures themselves are created solely by the community*. This patch complies with the BDcraft license found [__here__](http://bdcraft.net/license-terms-of-use).
 
 ## Credits:
  * [__crumbl3d__](http://bdcraft.net/community/member/crumbl3d/) - *the project leader, headmaster, superb artist ... lolnope* :)
