@@ -16,7 +16,10 @@ How to install the development patch:
  * First, download the whole __*PNGs*__ folder. 
  * Rename the downloaded folder to DEVSphaxThaumcraftPatch.
  * Use 7-Zip or any other free archive tool and package all the files in the folder to a zip.
-   __NOTE:__ When you open the zip you must have pack.png and pack.mcmeta files not the DEVSphaxThaumcraftPatch folder!!!
+ 
+   You should now have this file structure:
+   ![File Structure](http://i.imgur.com/TLpEZzx.png)
+   
  * Move the patch to your resourcepack folder and start Minecraft.
  * Apply the patch and play.
 
