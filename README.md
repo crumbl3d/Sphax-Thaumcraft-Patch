@@ -12,7 +12,14 @@ Want to help us finish the patch faster? Feel free to create a pull request to t
 __NOTE:__ If you aren't sure about file structure, please put your files into the __*Unsorted*__ folder.
 
 ## Aren't an artist but still want to help? You can be our bug tester!
-To download the latest patch, open the __*PNGs*__ folder and read the README.txt to find out how to package the patch. Then play around with it and just try to break it then post the bugs to the issue tracker [__here__](https://github.com/crumbl3d/sphax-thaumcraft-patch/issues). We will try to fix them and close your issue as fast as possible.
+How to install the development patch:
+ * First, download the whole __*PNGs*__ folder. 
+ * Rename the downloaded folder to DEVSphaxThaumcraftPatch.
+ * Use 7-Zip or any other free archive tool and package all the files in the folder to a zip.
+   __NOTE:__ When you open the zip you must have pack.png and pack.mcmeta files not the DEVSphaxThaumcraftPatch folder!!!
+ * Move the patch to your resourcepack folder and start Minecraft.
+ * Apply the patch and play.
+Now once you have installed the patch, play around with it and try to break it! Once you have found bugs, post them to the issue tracker [__here__](https://github.com/crumbl3d/sphax-thaumcraft-patch/issues). We will try to fix them and close your issue as fast as possible.
 
 ## License info:
 This project __*DOES NOT*__ contain any textures from the original Sphax PureBDcraft pack. It is a patch __*BASED ON*__ the original pack but the *textures themselves are created solely by the community*. This patch complies with the BDcraft license found [__here__](http://bdcraft.net/license-terms-of-use).
