@@ -19,6 +19,7 @@ How to install the development patch:
    __NOTE:__ When you open the zip you must have pack.png and pack.mcmeta files not the DEVSphaxThaumcraftPatch folder!!!
  * Move the patch to your resourcepack folder and start Minecraft.
  * Apply the patch and play.
+
 Now once you have installed the patch, play around with it and try to break it! Once you have found bugs, post them to the issue tracker [__here__](https://github.com/crumbl3d/sphax-thaumcraft-patch/issues). We will try to fix them and close your issue as fast as possible.
 
 ## License info:
