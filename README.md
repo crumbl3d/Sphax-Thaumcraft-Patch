@@ -14,7 +14,7 @@ __NOTE:__ If you aren't sure about file structure, please put your files into th
 ## Aren't an artist but still want to help? You can be our bug tester!
 How to install the development patch:
  * First, download the whole __*PNGs*__ folder. 
- * Rename the downloaded folder to DEVSphaxThaumcraftPatch.
+ * Rename the downloaded folder to __*DEVSphaxThaumcraftPatch*__.
  * Use 7-Zip or any other free archive tool and package all the files in the folder to a zip.
  
    You should now have this file structure:
