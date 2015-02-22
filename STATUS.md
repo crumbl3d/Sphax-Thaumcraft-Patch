@@ -66,9 +66,6 @@ __NOTE:__ *Read __todo.txt__ in PNGs\\...\gui\todo*
  * key.psd
    - all variants
  * nitor.psd
- * tallow.psd
- * thaumium.psd
-   - all variants
  * wand_cap.psd
    - all static variants
  * wand_cap-anim.psd
