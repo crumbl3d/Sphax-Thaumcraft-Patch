@@ -7,12 +7,11 @@ gui_researchbook          - some small tweaks to make it fit in better, also ask
                             font used in the research book (would love to change the default one)
 gui_researchbook_overlay  - make it more Sphaxy (see what Spanky made), also add missing things
 gui_spa                   - make it ... :D
-gui_wandtable             - make it aswell, use metal like in guitrunkbase
 guigolem                  - needs an update (take buttons from guiresearchtable2), possibly some 
                             other minor changes
 hud                       - a lot is added, update ...
 
-STILE SPECIFIC:
+STYLE SPECIFIC:
 
- - make the thaumaturgy symbols more Sphaxy, incorporate them into the guis
+ - make the thaumaturgy symbols more Sphaxy, incorporate them into the guis -> HanFox symbols
  - make it cleaner, and add some more detail (highlights, shadows ...)

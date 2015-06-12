@@ -1,5 +1,5 @@
 #Completed Textures
-__NOTE:__ This list may not be up to date and can miss some textures that has already been done. You should look at the folder structure for more complete list.
+__NOTE:__ This list may not be up to date so you should look at the folder structure for a more complete list.
 
 ##Aspects
  * aspects.psd
@@ -18,7 +18,7 @@ __NOTE:__ This list may not be up to date and can miss some textures that has al
    - I (__*crumbl3d*__) am working on all the woods (greatwood and silverwood)
 
 ##Foci
-__*KeddoXZ*__ has made these, will add them here once he uploads the PSD.
+ * foci.psd
 
 ##GUI
  * arcane.psd
@@ -75,7 +75,6 @@ __NOTE:__ *Read __todo.txt__ in PNGs\\...\gui\todo*
    - all animated variants
 
 ##Misc
-I (__*crumbl3d*__) will be maintaining this, if I need help I'll ask! :)
  * icons.psd
    - needs updating, some textures added
  * parchment.psd

@@ -1,4 +1,5 @@
 ## TODO List:
- * *add more files, sort and fix the PSDs*
- * *split the work to the contributors*
- * *bug testers ...*
+ * *fix GUIs and misc - crumbl3d*
+ * *work on models*
+ * *update blocks and items*
+ * *bug test*
